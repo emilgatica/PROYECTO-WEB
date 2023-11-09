@@ -9,13 +9,13 @@
 
 | Nombre| Comportamiento| Demografía |Necesidades|
 |:-------------:|:-------------:|:-----:|:-----:|
-| Emma | No está en búsqueda de servicios de diseño. Navega en la web de forma ocasional para vitrinear productos de consumo como ropa o artóículos del hogar. | 55 años | Sus necesidades señalan otro tipo de páginas web, por lo que su recorrido por un portafolio digital resulta poco probable. |
-| Ryan | Enfocado en el deporte y mundo de los videojuegos. Le encanta ver partidos y competiciones en línea, y a menudo se une a comunidades en línea para seguir las últimas noticias relacionadas con los videojuegos y los deportes. |  16 años | Resulta poco probable que busque por su propia cuenta un sitio de diseño integral. Sus intereses apunta a otro lado de la web. |
+| Emma | No está en búsqueda de servicios de diseño. Navega en la web de forma ocasional para vitrinear productos de consumo como ropa o artóículos del hogar. | 55 años, Mujer | Sus necesidades señalan otro tipo de páginas web, por lo que su recorrido por un portafolio digital resulta poco probable. |
+| Ryan | Enfocado en el deporte y mundo de los videojuegos. Le encanta ver partidos y competiciones en línea, y a menudo se une a comunidades en línea para seguir las últimas noticias relacionadas con sus áreas de interés. |  16 años, Hombre | Resulta poco probable que busque por su propia cuenta un sitio de diseño integral, pudiendo haber acabado explorando este de pura casualidad. Sus intereses apuntan a otro lado de la web. |
 
 **2. Usuario más probable**
 | Nombre| Comportamiento| Demografía |Necesidades|
 |:-------------:|:-------------:|:-----:|:-----:|
-| Gilly | Es contratadora profesional en una agencia interdisciplinaria. | 32 años | Su necesidad es explorar portafolios en busca de diseñadores que puedan proporcionar un aporte para la agencia. Su proto-persona es altamente probable cuando se trata de la posible audiencia de un portafolio.  |
+| Gilly | Es contratadora profesional en una agencia interdisciplinaria. | 32 años, Mujer | Su necesidad es explorar portafolios en busca de diseñadores que puedan proporcionar un aporte para la agencia. Su proto-persona es altamente probable cuando se trata de la posible audiencia de un portafolio.  |
 
 ### ¿Qué existe que es similar a la propuesta?
 #### Recopilación de antecedentes 

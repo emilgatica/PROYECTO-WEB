@@ -1,6 +1,6 @@
-# PROPUESTA PRELIMINAR: Proyecto Portafolio WEB
+# PROPUESTA PRELIMINAR: _Proyecto portafolio personal_
 
-### ¿Para qué es esta propuesta? → objetivo general
+### ¿Para qué es esta propuesta?
 *Exhibir de manera organizada proyectos de diseño integral, destacando el dominio de habilidades multidisciplinarias y posibilitando conexiones en el campo profesional.*
 
 ### ¿Para quiénes es esta propuesta?

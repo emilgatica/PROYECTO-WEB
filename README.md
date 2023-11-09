@@ -67,7 +67,6 @@ Conceptos clave: *Ilustración, duotono, minimalismo.*
 
 3. [Anna Jona](https://godly.website/website/766-anna-jona)
 Conceptos clave: *Animación al scrollear, apertura, interacción.*
-https://godly.website/website/766-anna-jona
 
 4. [Kamaboko](https://godly.website/website/745-kamaboko)
 Conceptos clave: *Narrativa gráfica, elementos 3D, paleta de colores.*
